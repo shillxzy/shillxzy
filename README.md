@@ -1,4 +1,4 @@
-![Banner]()
+<img src="https://raw.githubusercontent.com/iammert/TileProgressView/main/art/animatedart.gif" alt="баннер" width="1260" height="280"/>
 
 <h1 align="center">Hello, just welcome.</h1>
 <h3 align="center">An unknown programmer who just wants to... and what do I want?</h3>
