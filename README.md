@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shillxzy&label=Profile%20views&color=0e75b6&style=flat" alt="shillxzy" /> </p>
 
-![shillxzy's Stats](https://github-readme-stats.vercel.app/api?username=shillxzy&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![shillxzy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shillxzy&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shillxzy&theme=gotham&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shillxzy&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="150" alt="stats graph" />
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
