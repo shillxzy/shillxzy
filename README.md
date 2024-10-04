@@ -1,5 +1,6 @@
-<h1 align="center">🟩Welcome!🟩</h1>
-<h3 align="center"></h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/shillxzy/shillxzy/main/welcome.png" alt="Logo" width="400px" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shillxzy&label=Profile%20views&color=0e75b6&style=flat" alt="shillxzy" /> </p>
 
